@@ -1,0 +1,16 @@
+.brown {
+  color: brown;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.white {
+  color: white;
+  background-color: black;
+}
+
+#choc {
+  font-size: 1.5em;
+}
